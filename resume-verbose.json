@@ -6,7 +6,7 @@
     "email": "jimmylorunning@gmail.com",
     "phone": "(678) 404-2556",
     "website": "http://jimmylocoding.com",
-    "summary": "Jimmy has been a tech geek ever since programming on the Apple IIe in high school. He went on to study computer science at Georgia Tech and work for several design and web development firms. Most recently he has worked at the DeKalb Library as their in-house programmer, responsible for all facets of their online presence. While that was fun, he is excited to branch out and work in a team environment again. He values good design, good code, and learning new things.",
+    "summary": "Jimmy has been a techie ever since programming on the Apple IIe in high school. He went on to study computer science at Georgia Tech and work for several design and web development firms. Most recently he has worked at the DeKalb Library as their in-house programmer, responsible for all facets of their online presence. While that was fun, he is excited to branch out and work in a team environment again. He values good design, elegant code, and learning new things.",
     "location": {
       "address": "450 Robinson Ave, Apt 2",
       "postalCode": "GA 30315",
@@ -30,7 +30,12 @@
     {
       "position": "Freelancer",
       "startDate": "2014-04-01",
-      "summary": "Performed an array of work from web design and development to video shooting and editing for various clients"
+      "summary": "Performed work for diverse clients.",
+      "highlights": [
+        "Redesigned and built out a new version of the DeKalb County Public Library site",
+        "Developed a responsive HTML5 site for Encyclomedia (in progress)",
+        "Shot and edited videos for Wages Films"
+      ]
     },
     {
       "company": "DeKalb County Public Library",
@@ -40,11 +45,13 @@
       "endDate": "2014-04-01",
       "summary": "Moved the library from a 90's style static page to a fully interactive online presence.",
       "highlights": [
-        "Completely revamped the library's website from backend to frontend, making information responsive, accessible, and editable",
-        "Created an app for librarians to enter programs for publication on the website's events calendar as well as on TV screens that greet patrons as they enter the library",
+        "Redesigned and built the library's website, making information responsive, accessible, and editable",
+        "Created an app for librarians to enter programs for publication on the website's events calendar",
+        "Created an app that fed library information to TV screens that greet patrons when they enter the library",
         "Built a complete intranet solution to facilitate communication within the organization",
         "Started and created content for DCPLive (blog) and DCPLink (newsletter)",
-        "Created a multi-faceted online presence for the library to reach its patrons on Twitter, Facebook, Flickr, Pinterest, and YouTube",
+        "Created the library's online presence to facilitate patron interactions on Twitter, Facebook, Flickr, Pinterest, and YouTube",
+        "Grew online following on social media services, including 1400 followers on Twitter and 3700 Likes on Facebook",
         "Created and maintained three podcasts delivering original audio content to patrons"
       ]
     },
@@ -54,7 +61,7 @@
       "website": "http://www.anchorwave.com/",
       "startDate": "2005-08-01",
       "endDate": "2006-08-01",
-      "summary": "Key member of a small web development team making sites for local small businesses in Tucson, Arizona.",
+      "summary": "Key member of a web development team making sites for local small businesses in Tucson, Arizona.",
       "highlights": [
         "Created PHP and MySQL driven e-commerce sites under strict deadlines",
         "Helped develop and conceive a PHP-based content management system for use across client sites"
@@ -80,7 +87,55 @@
       "summary": "Assisted in the development of Word Pro, a word processing application for the desktop."
     }
   ],
+  "volunteer": [
+    {
+      "organization": "CodeAcross Atlanta",
+      "position": "Hacker",
+      "website": "http://www.codeforamerica.org/events/codeacross-2015/",
+      "startDate": "2015-02-21",
+      "summary": "Ongoing efforts to revitalize South Downtown Atlanta through tech",
+      "highlights": [
+        "Converted data for use in asset map of area",
+        "Helped build interactive asset map of South Downtown"
+      ]
+    },
+    {
+      "organization": "Free Poems on Demand",
+      "position": "Founder, Poet",
+      "website": "http://freepoemsatl.org",
+      "startDate": "2010-09-04",
+      "summary": "Freely spread literary love",
+      "highlights": [
+        "Conceived and organized over 60 Free Poems on Demand performances",
+        "Worked in close collaboration with organizers of events, such as the Decatur Book Festival, Chomp and Stomp, and Atlanta Streets Alive",
+        "Recruited over 20 members to write free poems",
+        "Created and managed the Free Poems on Demand website and online presence",
+        "Increased awareness of poetry in Atlanta"
+      ]
+    },
+    {
+      "organization": "Crop Mob",
+      "position": "Volunteer",
+      "website": "http://www.cropmobgeorgia.com/category/crop-mob-atlanta/",
+      "startDate": "2010-01-01",
+      "endDate": "2012-12-01",
+      "summary": "Helped local organic farmers weed, plant, harvest, and do other tasks"
+    },
+    {
+      "organization": "Concrete Jungle",
+      "position": "Volunteer, Pick leader",
+      "website": "http://www.concrete-jungle.org/",
+      "startDate": "2012-01-01",
+      "summary": "Helped pick over a thousand pounds of wild fruit per year for local food banks"
+    }
+  ],
   "education": [
+    {
+      "institution": "EdX.org / UC Berkeley",
+      "area": "Software as a Service, Parts 1 & 2",
+      "startDate": "2014-11-01",
+      "endDate": "2015-02-01"
+    },
     {
       "institution": "Arizona State University",
       "area": "Creative Writing",
@@ -104,6 +159,22 @@
       "awarder": "DeKalb County Public Library"
     }
   ],
+  "publications": [
+    {
+      "name": "A Reduction",
+      "publisher": "Textile Series",
+      "releaseDate": "2011-06-01",
+      "website": "http://www.textileseries.com/shop/a-reduction-by-jimmy-lo",
+      "summary": "Prose poem on the seduction of the miniscule"
+    },
+    {
+      "name": "An Attempt at Re-exhausting a Place in Paris",
+      "publisher": "Eyeshot",
+      "releaseDate": "2012-08-01",
+      "website": "http://eyeshot.net/perec.html",
+      "summary": "Following Oulipian writer Georges Perec through time and space using Google Maps"
+    }
+  ],
   "skills": [
     {
       "name": "Backend Web Development",
@@ -124,8 +195,7 @@
         "CSS",
         "Javascript",
         "JQuery",
-        "Sass",
-        "Less"
+        "Sass"
       ]
     },
     {
@@ -154,6 +224,35 @@
     {
       "language": "Cantonese",
       "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tech",
+      "keywords": [
+        "Languages",
+        "Mobile development",
+        "Open source software",
+        "Teaching tech"
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "keywords": [
+        "Organic agriculture",
+        "Composting",
+        "Alternative modes of transportation",
+        "Recycle, Re-use, and Gleaning"
+      ]
+    },
+    {
+      "name": "Arts",
+      "keywords": [
+        "Modernism",
+        "Postmodernism",
+        "Small presses",
+        "Obscure writers"
+      ]
     }
   ]
 }
