@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jimmy Lo",
     "label": "Programmer",
-    "picture": "http://jimmylocoding.com/resume/ASA_sm.jpg",
+    "picture": "http://jimmylocoding.com/images/ASA_sm.jpg",
     "email": "jimmylorunning@gmail.com",
     "phone": "(678) 404-2556",
     "website": "http://jimmylocoding.com",
@@ -88,6 +88,14 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "GoodieHack 2015",
+      "position": "Hacker",
+      "website": "http://goodiehack.com/",
+      "startDate": "2015-02-27",
+      "endDate": "2015-02-28",
+      "summary": "Created data visualization dashboard for Atlanta Regional Commission"
+    },
     {
       "organization": "CodeAcross Atlanta",
       "position": "Hacker",
@@ -242,14 +250,15 @@
         "Organic agriculture",
         "Composting",
         "Alternative modes of transportation",
-        "Recycle, Re-use, and Gleaning"
+        "Foraging"
       ]
     },
     {
-      "name": "Arts",
+      "name": "Poetry",
       "keywords": [
-        "Modernism",
-        "Postmodernism",
+        "Voice",
+        "Tone",
+        "Brokenness",
         "Small presses",
         "Obscure writers"
       ]
