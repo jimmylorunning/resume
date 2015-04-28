@@ -240,35 +240,5 @@
       "language": "Cantonese",
       "fluency": "Fluent"
     }
-  ],
-  "interests": [
-    {
-      "name": "Tech",
-      "keywords": [
-        "Languages",
-        "Mobile development",
-        "Open source software",
-        "Teaching tech"
-      ]
-    },
-    {
-      "name": "Sustainability",
-      "keywords": [
-        "Organic agriculture",
-        "Composting",
-        "Alternative modes of transportation",
-        "Foraging"
-      ]
-    },
-    {
-      "name": "Poetry",
-      "keywords": [
-        "Voice",
-        "Tone",
-        "Brokenness",
-        "Small presses",
-        "Obscure writers"
-      ]
-    }
   ]
 }
